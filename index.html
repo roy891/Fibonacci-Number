@@ -11,12 +11,18 @@
 
 <div class="container-fluid p-5 bg-primary text-white text-center">
     <h1>fibonacci number</h1>
+    <p>const fibo = [0,1]; <br>
+
+        for(let i = 2; i <= 20; i++) <br>
+
+            {fibo[i] = fibo[i - 1] + fibo[i - 2];} <br>
+
+        document.getElementById("fibonacci").innerHTML = fibo; <br>
+    </p>
   </div>
 
 <body>
     <p id ="fibonacci"></p>
-    <p class="numbers"></p>
     <script src="script.js"></script>
-    <script src="scriptt.js"></script>
 </body>
 </html>
