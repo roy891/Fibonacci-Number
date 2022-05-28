@@ -10,6 +10,14 @@ h1{
     text-transform: uppercase;
 }
 
+p {
+    font-size: 30px;
+    text-align: center;
+    border: 2px solid yellowgreen;
+    padding: 20px 0 20px 0;
+    color: black;
+}
+
 #fibonacci{
     border: 2px solid yellowgreen;
     font-size: 40px;
