@@ -1,0 +1,18 @@
+*{
+    background: #008080;
+    color: silver;
+
+}
+
+h1{
+    font-size: 80px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#fibonacci{
+    border: 2px solid yellowgreen;
+    font-size: 40px;
+    text-align: center;
+    padding: 30px;
+}
